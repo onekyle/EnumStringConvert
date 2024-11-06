@@ -33,4 +33,4 @@ if (testWorkStatus == WorkStatusFromString(@"WorkStatusUnKnown")) {
 
 ### 如果你在天朝  
 
-[利用宏定义实现枚举转字符串](https://blog.1kye.com/?p=310)
+[利用宏定义实现枚举转字符串](https://blog.1kye.com/?p=259)
